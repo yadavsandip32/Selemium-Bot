@@ -1,0 +1,899 @@
+1519886953261	geckodriver	INFO	geckodriver 0.19.1
+1519886953275	geckodriver	INFO	Listening on 127.0.0.1:51344
+1519886957271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.KwMoOSq1NKsr"
+1519886968244	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 1767: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1519886988714	Marionette	INFO	Listening on port 51352
+1519886989534	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519887785570	geckodriver	INFO	geckodriver 0.19.1
+1519887785686	geckodriver	INFO	Listening on 127.0.0.1:51534
+1519887788702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.8ogjTmGWoOQW"
+1519887795554	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519887814554	Marionette	INFO	Listening on port 51546
+1519887815050	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 1767: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 13740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519888232286	geckodriver	INFO	geckodriver 0.19.1
+1519888232294	geckodriver	INFO	Listening on 127.0.0.1:51752
+1519888235339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.Ncg1oZywSarR"
+1519888236931	Marionette	INFO	Enabled via --marionette
+1519888241542	Marionette	INFO	Listening on port 51760
+1519888242230	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519888391602	geckodriver	INFO	geckodriver 0.19.1
+1519888391624	geckodriver	INFO	Listening on 127.0.0.1:51833
+1519888394664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.jNQbyz0fxHzf"
+1519888396909	Marionette	INFO	Enabled via --marionette
+1519888402154	Marionette	INFO	Listening on port 51841
+1519888402820	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519888650458	geckodriver	INFO	geckodriver 0.19.1
+1519888650465	geckodriver	INFO	Listening on 127.0.0.1:52051
+1519888653604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.71jpCfWF0sko"
+1519888655641	Marionette	INFO	Enabled via --marionette
+1519888659937	Marionette	INFO	Listening on port 52059
+1519888659976	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519889207253	geckodriver	INFO	geckodriver 0.19.1
+1519889207278	geckodriver	INFO	Listening on 127.0.0.1:52230
+1519889210649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.qC8OtzmjWakQ"
+1519889215865	Marionette	INFO	Enabled via --marionette
+1519889221175	Marionette	INFO	Listening on port 52244
+1519889221359	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=san.yad.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519889359757	geckodriver	INFO	geckodriver 0.19.1
+1519889359769	geckodriver	INFO	Listening on 127.0.0.1:52346
+1519889362947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.xJ6zajWsbEvF"
+1519889365224	Marionette	INFO	Enabled via --marionette
+1519889369018	Marionette	INFO	Listening on port 52354
+1519889369302	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=san.yad.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519889867030	geckodriver	INFO	geckodriver 0.19.1
+1519889867036	geckodriver	INFO	Listening on 127.0.0.1:52520
+1519889870246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-mari1519889870303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\1519889875408	Marionette	INFO	Enabled via --marionette
+1519889882370	Marionette	INFO	Listening on port 52536
+1519889883564	Marionette	WARN	TLS certificate errors wi1519889885900	Marionette	INFO	Listening on port 52538
+1519889886839	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 1767: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+Unable to read VR Path Registry from C:\Us[Child 11324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Fi[Parent 10876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519890144368	geckodriver	INFO	geckodriver 0.19.1
+1519890144374	geckodriver	INFO	Listening on 127.0.0.1:52664
+1519890147514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.KcE0OgxGXtWv"
+1519890149807	Marionette	INFO	Enabled via --marionette
+1519890154357	Marionette	INFO	Listening on port 52672
+1519890154998	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=san.yad.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519890844939	geckodriver	INFO	geckodriver 0.19.1
+1519890844952	geckodriver	INFO	Listening on 127.0.0.1:53589
+1519890848018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.lsJbjY3SWaEZ"
+1519890850072	Marionette	INFO	Enabled via --marionette
+1519890854274	Marionette	INFO	Listening on port 53601
+1519890854499	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519890950065	geckodriver	INFO	geckodriver 0.19.1
+1519890950078	geckodriver	INFO	Listening on 127.0.0.1:53842
+1519890953300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.BwkIWA9aXVow"
+1519890955439	Marionette	INFO	Enabled via --marionette
+1519890960934	Marionette	INFO	Listening on port 53854
+1519890961267	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519891085179	geckodriver	INFO	geckodriver 0.19.1
+1519891085186	geckodriver	INFO	Listening on 127.0.0.1:53967
+1519891088283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.e2D55sIsaYzb"
+1519891089969	Marionette	INFO	Enabled via --marionette
+1519891095255	Marionette	INFO	Listening on port 53975
+1519891095804	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519891151107	geckodriver	INFO	geckodriver 0.19.1
+1519891151114	geckodriver	INFO	Listening on 127.0.0.1:54030
+1519891154273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.parWDAqFjOc1"
+1519891155813	Marionette	INFO	Enabled via --marionette
+1519891160045	Marionette	INFO	Listening on port 54038
+1519891160133	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519891830703	geckodriver	INFO	geckodriver 0.19.1
+1519891830725	geckodriver	INFO	Listening on 127.0.0.1:54403
+1519891833866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.wXe7fov7ojIQ"
+1519891836147	Marionette	INFO	Enabled via --marionette
+1519891841235	Marionette	INFO	Listening on port 54415
+1519891841442	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519891920299	geckodriver	INFO	geckodriver 0.19.1
+1519891920306	geckodriver	INFO	Listening on 127.0.0.1:54589
+1519891923434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.OmzdtVO8CQRx"
+1519891924867	Marionette	INFO	Enabled via --marionette
+1519891929289	Marionette	INFO	Listening on port 54601
+1519891929342	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519891980939	geckodriver	INFO	geckodriver 0.19.1
+1519891980953	geckodriver	INFO	Listening on 127.0.0.1:54740
+1519891984083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.fyfVCdNuUQZB"
+1519891985757	Marionette	INFO	Enabled via --marionette
+1519891989802	Marionette	INFO	Listening on port 54752
+1519891989883	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519896718719	geckodriver	INFO	geckodriver 0.19.1
+1519896718738	geckodriver	INFO	Listening on 127.0.0.1:57156
+1519896722274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.pOUt7DRY4byJ"
+1519896730880	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519896753289	Marionette	INFO	Listening on port 57168
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 1767: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1519896754307	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 14108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 14108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 2304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519898475846	geckodriver	INFO	geckodriver 0.19.1
+1519898475883	geckodriver	INFO	Listening on 127.0.0.1:59498
+1519898479079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.M0Azb5fx4WIL"
+1519898494579	Marionette	INFO	Enabled via --marionette
+1519898500970	Marionette	INFO	Listening on port 59510
+1519898501719	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Load timeout for modules: core/first
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+js/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519898908456	geckodriver	INFO	geckodriver 0.19.1
+1519898908482	geckodriver	INFO	Listening on 127.0.0.1:60415
+1519898909632	geckodriver	INFO	geckodriver 0.19.1
+1519898909645	geckodriver	INFO	Listening on 127.0.0.1:60419
+1519898913045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.XVi4KP6xw8FR"
+1519898915966	Marionette	INFO	Enabled via --marionette
+1519898921576	Marionette	INFO	Listening on port 60431
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 1767: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1519898922636	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js line 3 > eval line 1 > eval, line 1: TypeError: g.getDimensions(...)[(r - 1)] is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js line 3 > eval line 1 > eval, line 1: TypeError: g.getDimensions(...)[(r - 1)] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://mydy.dypatil.edu/rait/mod/flexpaper/js/jquery.min.js line 3 > eval line 1 > eval, line 1: TypeError: g.getDimensions(...)[(r - 1)] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 6780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519900085127	geckodriver	INFO	geckodriver 0.19.1
+1519900085133	geckodriver	INFO	Listening on 127.0.0.1:62287
+1519900088271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.vus5DMhLgaaA"
+1519900091271	Marionette	INFO	Enabled via --marionette
+1519900096190	Marionette	INFO	Listening on port 62299
+1519900096662	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ipt.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Load timeout for modules: core/first
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824225615, line 68: unreachable code after return statement
+y.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519903359691	geckodriver	INFO	geckodriver 0.19.1
+1519903359706	geckodriver	INFO	Listening on 127.0.0.1:63968
+1519903362817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Dilip\\AppData\\Local\\Temp\\rust_mozprofile.A2sBVxx89vGK"
+1519903364655	Marionette	INFO	Enabled via --marionette
+1519903368935	Marionette	INFO	Listening on port 63976
+1519903369873	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=pri.shi.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+preventDefault is not a function
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+us define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1517487531/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] ErrUnable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+Unable to read VR Path Registry from C:\Users\Dilip\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
