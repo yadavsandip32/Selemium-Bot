@@ -11,7 +11,7 @@ password_box = driver.find_element_by_id('password')
 password_box.send_keys(pwd)
 login_box = driver.find_element_by_id('loginbtn')
 login_box.click()
-time.sleep(4)
+time.sleep(2)
 window_before = driver.window_handles[0]
 SE = driver.find_elements_by_class_name('launchbutton')
 for button in SE:
@@ -24,42 +24,22 @@ for tab in range(1,7):
     time.sleep(2)
     elem = driver.find_element_by_link_text('Presentation')
     elem.click()
-    time.sleep(8)
+    time.sleep(4)
     links = driver.find_elements_by_xpath('//*[@id="filterlist"]/div/ul/li/div/ul/li/p/a')
-    links[1].get_attribute('href')
+
     for link in links:
-        # link.send_keys(Keys.COMMAND + 't')
-        driver.get(link.get_attribute('href')).send_keys(Keys.COMMAND + 't')
+        window_before_ppt = driver.window_handles[0]
+        window_after_ppt = driver.window_handles[1]
+        driver.execute_script("window.open(arguments[0]);", link.get_attribute('href'))
+        driver.switch_to.window(window_after_ppt)
         time.sleep(2)
-    # import pdb; pdb.set_trace()
-    # for link in links:
-    #     print(link)
+        elem = driver.find_element_by_tag_name('body')
+        time.sleep(3)
+        driver.execute_script("window.close()")
 
+# driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 't')
+# driver.get(link.get_attribute('href'))
+# driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 't')
+# driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 'w')
+# time.sleep(4)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # ul = driver.find_element_by_xpath('//*[@id="gridiconcontainer"]/ul/li')
-    #
-    # element = driver.find_elements_by_xpath('//*[@id="gridiconcontainer"]/ul/li/a')
-    # # wait.until(EC.element_to_be_clickable((By.ID, 'someid')))
-    # for i in element:
-    #     print(i.get_attribute('href'))
-    # import  pdb;pdb.set_trace()
-    break
